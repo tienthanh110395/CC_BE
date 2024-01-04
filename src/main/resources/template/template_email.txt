@@ -1,0 +1,9 @@
+<!DOCTYPE HTML>
+<meta charset=\"UTF-8\">
+<html>
+<body>
+PARAM1
+<p>Để được hỗ trợ trực tiếp quý khách vui lòng liên hệ hotline CSKH: <b>19009080</b></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><i>Trân trọng cảm ơn quý khách đã tin tưởng sử dụng ePass và đồng hành cùng chúng tôi!</b></i></p>
+</body>
+</html>

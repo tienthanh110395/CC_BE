@@ -1,0 +1,2 @@
+package com.viettel.etc.dto;import com.fasterxml.jackson.annotation.JsonInclude;import com.fasterxml.jackson.annotation.JsonInclude.Include;import java.util.Date;import lombok.Data;import lombok.NoArgsConstructor;/** * Autogen class DTO:  *  * @author ToolGen * @date Sun Nov 21 11:59:20 ICT 2021 */@Data@NoArgsConstructor@JsonInclude(Include.NON_NULL)public class WorkingDaysDTO {    Long yyyy;    Date dd;    String type;    Long isLeave;    Long leaveType;    Integer startrecord;    Integer pagesize;    Boolean resultSqlEx;
+}

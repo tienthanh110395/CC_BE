@@ -1,0 +1,1 @@
+package com.viettel.etc.repositories;import com.viettel.etc.dto.WorkingDaysDTO;import com.viettel.etc.xlibrary.core.entities.ResultSelectEntity;/** * Autogen class Repository Interface: * * @author toolGen * @date Sun Nov 21 11:59:22 ICT 2021 */public interface WorkingDaysRepository {    ResultSelectEntity getWorkingDays(WorkingDaysDTO itemParamsEntity);}

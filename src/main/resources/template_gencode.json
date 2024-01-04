@@ -1,0 +1,10 @@
+{
+  "className": "TicketStatistic",
+  "desc": "",
+  "listMethod": [{
+    "name": "getTicketStatistic",
+    "sql": "select * from STATISTIC",
+    "desc": "",
+    "count": 1
+  }]
+}

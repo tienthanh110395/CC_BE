@@ -1,0 +1,2 @@
+package com.viettel.etc.repositories;import com.viettel.etc.dto.TicketProcessShareDetailDTO;import java.util.List;import com.viettel.etc.xlibrary.core.entities.ResultSelectEntity;/** * Autogen class Repository Interface:  *  * @author toolGen * @date Tue Aug 31 13:50:49 ICT 2021 */public interface TicketProcessShareDetailRepository {    public ResultSelectEntity getTicketProcessShareDetail(TicketProcessShareDetailDTO itemParamsEntity);
+}

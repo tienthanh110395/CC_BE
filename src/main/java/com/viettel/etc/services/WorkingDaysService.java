@@ -1,0 +1,1 @@
+package com.viettel.etc.services;import com.viettel.etc.dto.WorkingDaysDTO;/** * Autogen class: * * @author ToolGen * @date Sun Nov 21 11:59:22 ICT 2021 */public interface WorkingDaysService {    Object getWorkingDays(WorkingDaysDTO itemParamsEntity);}

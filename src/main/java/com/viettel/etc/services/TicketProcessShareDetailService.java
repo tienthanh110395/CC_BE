@@ -1,0 +1,1 @@
+package com.viettel.etc.services;import com.viettel.etc.dto.TicketProcessShareDetailDTO;/** * Autogen class: * * @author ToolGen * @date Tue Aug 31 13:50:49 ICT 2021 */public interface TicketProcessShareDetailService {    Object getTicketProcessShareDetail(TicketProcessShareDetailDTO itemParamsEntity);}
